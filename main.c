@@ -1,7 +1,7 @@
 /*
  * ---------------------------------------------------------------------------
  *	 
- *   Collaborative movie recommendation (based in users)
+ *   Collaborative movie recommendation (item based)
  *
  *   Developed by: Maria Luisa Costa Pinto
  *   www.homepages.dcc.ufmg.br/~maria.luisa/
